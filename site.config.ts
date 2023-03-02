@@ -19,7 +19,7 @@ export default siteConfig({
   // social usernames (optional)
   //twitter: 'transitive_bs',
   //github: 'transitive-bullshit',
-  linkedin: 'youlin-liu',
+  //linkedin: 'youlin-liu',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -54,8 +54,8 @@ export default siteConfig({
   // navigationStyle: 'custom',
   // navigationLinks: [
   //   {
-  //     title: 'About',
-  //     pageId: 'f1199d37579b41cbabfc0b5174f4256a'
+       title: 'About',
+       pageId: '216b0229b5e342d99d44ddf3b192dcd9'
   //   },
   //   {
   //     title: 'Contact',
