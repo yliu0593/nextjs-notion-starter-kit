@@ -16,6 +16,7 @@ export default siteConfig({
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
 
+  instagram: 'youlin_music',
   // social usernames (optional)
   //twitter: 'transitive_bs',
   //github: 'transitive-bullshit',
@@ -53,9 +54,9 @@ export default siteConfig({
   //navigationStyle: 'default',
   navigationStyle: 'custom',
   navigationLinks: [
-   {
-     title: 'About',
-     pageId: '216b0229b5e342d99d44ddf3b192dcd9'
-     }
-   ]
+    {
+      title: 'About',
+      pageId: '216b0229b5e342d99d44ddf3b192dcd9'
+    }
+  ]
 })
